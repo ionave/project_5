@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\ece385\lab5\simulation\modelsim
+vadder4
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 L>5J[FRFEf7Q@a7OlleB:0
+IZJ5hLNZzZBDh]H3W62V?I1
+Ve@C6gcD6=gWC_V:HQ<Zzn3
+Z2 !s105 Complete_Adder_sv_unit
+S1
+Z3 dC:\ece385\lab5\simulation\modelsim
+Z4 w1411945982
+Z5 8C:/ece385/lab5/Complete_Adder.sv
+Z6 FC:/ece385/lab5/Complete_Adder.sv
+L0 9
+Z7 OV;L;10.1e;51
+r1
+!s85 0
+31
+Z8 !s108 1411947113.536000
+Z9 !s107 C:/ece385/lab5/Complete_Adder.sv|
+Z10 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/ece385/lab5|C:/ece385/lab5/Complete_Adder.sv|
+!s101 -O0
+Z11 o-sv -work work -O0
+Z12 !s92 -sv -work work +incdir+C:/ece385/lab5 -O0
+vComplete_Adder
+R1
+!i10b 1
+!s100 T8[9LZOD[A<25?61c@NK30
+Ia`Y^`Hhzn5IF9UIlc0Lbe1
+VY<If`dYL2=>SmoUfc8@m[1
+R2
+S1
+R3
+R4
+R5
+R6
+L0 24
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+R12
+n@complete_@adder
+vfull_adder
+R1
+!i10b 1
+!s100 @HnTD3N;XaR7F8Q?5V?Q52
+I1gL?]SRSj[D[?6H>3Q]fJ0
+V[T5OE5g>FjJWW79mUzPAY3
+R2
+S1
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+R12

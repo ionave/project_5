@@ -1,0 +1,29 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\ece385\lab5\simulation\modelsim
+vComplete_Adder
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 i=TBY6SS>CJYU68kb;cgP3
+Id`lC=H0RnVMiGnC[]66BJ2
+VnBMR@YmBhOAZ@eLVn`^2W1
+!s105 Complete_Adder_7_1200mv_85c_slow_svo_unit
+S1
+Z1 dC:\ece385\lab5\simulation\modelsim
+w1411994267
+8Complete_Adder_7_1200mv_85c_slow.svo
+FComplete_Adder_7_1200mv_85c_slow.svo
+L0 32
+Z2 OV;L;10.1e;51
+r1
+!s85 0
+31
+!s108 1411995808.033000
+!s107 Complete_Adder_7_1200mv_85c_slow.svo|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+.|Complete_Adder_7_1200mv_85c_slow.svo|
+!s101 -O0
+o-sv -work work -O0
+!s92 -sv -work work +incdir+. -O0
+n@complete_@adder

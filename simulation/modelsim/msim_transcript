@@ -1,0 +1,19 @@
+# Reading D:/altera/14.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do Complete_Adder_run_msim_gate_systemverilog.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying D:\altera\14.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\altera\14.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -sv -work work +incdir+. {Complete_Adder_7_1200mv_85c_slow.svo}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module Complete_Adder
+# 
+# Top level modules:
+# 	Complete_Adder
+# 
